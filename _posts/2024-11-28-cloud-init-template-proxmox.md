@@ -2,7 +2,7 @@
 layout: post
 title: Cloud-Init Templates in Proxmox
 # subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.png
+cover-img: /assets/img/cloud_init.png
 thumbnail-img: /assets/img/cloud_init_thumb.png
 share-img: /assets/img/cloud_init.png
 tags: [proxmox, homelab, cloud-init]
